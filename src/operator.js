@@ -1,5 +1,5 @@
 function add(left, right) {
-    return left + right + 42;
+    return left + right;
 }
 
 function sub(left, right) {
