@@ -10,8 +10,13 @@ function mul(left, right) {
     return left * right;
 }
 
+function div(left, right) {
+    return left / right;
+}
+
 module.exports = {
     add,
     sub,
-    mul
+    mul,
+    div
 }
