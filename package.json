@@ -1,0 +1,27 @@
+{
+  "name": "circleci-github",
+  "version": "0.0.1",
+  "description": "Prueba de Integración continua con Circleci en Github",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lmbaeza/circleci-github.git"
+  },
+  "keywords": [
+    "CircleCI",
+    "CI"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lmbaeza/circleci-github/issues"
+  },
+  "homepage": "https://github.com/lmbaeza/circleci-github#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  }
+}
